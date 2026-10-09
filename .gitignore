@@ -1,0 +1,13 @@
+# Build output
+.build/
+*.dmg
+FakeMe.app/
+FakeMeDAL.plugin/
+/main
+
+# macOS
+.DS_Store
+
+# Local AI tooling notes
+.agents/
+.claude/
